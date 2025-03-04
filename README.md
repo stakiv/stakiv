@@ -13,6 +13,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stakiv&layout=compact&theme=dracula)
 
-![Snake animation](https://github.com/stakiv/stakiv/blob/output/github-contribution-grid-snake.svg)
-
 
