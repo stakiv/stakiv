@@ -15,3 +15,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stakiv&layout=compact&theme=dracula)
 
 
+Мои проекты:
+- [Ice cream shop](https://github.com/stakiv/pks) — маркетплейс мороженого
+- [rick-morty](https://github.com/stakiv/rick-morty) — персонажи Рика и морти
+
