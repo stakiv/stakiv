@@ -16,7 +16,7 @@
 
 
 Мои проекты:
+- [card-wallet](https://github.com/stakiv/card-wallet) — приложение для хранения скидочных карт
 - [Ice cream shop](https://github.com/stakiv/pks) — маркетплейс мороженого
 - [rick-morty](https://github.com/stakiv/rick-morty) — персонажи Рика и морти
-- [card-wallet](https://github.com/stakiv/card-wallet) — приложение для хранения скидочных карт
 
